@@ -1,4 +1,4 @@
-package com.journaldev.jdbc.datasource;
+package com.bikramjit.jdbc.datasource;
 
 import java.io.FileInputStream;
 import java.io.IOException;
